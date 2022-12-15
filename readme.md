@@ -4,6 +4,16 @@ O projecto baseou-se num Conversor de Sistemas de Numeração, um programa que c
 
 O progama  converte números na base (Binário, Decimal, Hexadecimal,  Octal,  Romano ) e também por Extenso.
 
+![alt text](https://github.com/rogerioTuzolana/Conversor-Numero/blob/main/img1.jpg?raw=true)
+
+# Funcionabilidade
+O presente progama permite dois modo:
+
+1-Converter  para qualquer ID .
+Ex:NetBeans;
+
+2-Passagem de dados no argumento do main na linha de comando.
+
 # Clases && Modulação
 
 Separamos o codigo fonte em  9 arquivos.
