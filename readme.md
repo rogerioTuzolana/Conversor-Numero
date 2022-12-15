@@ -5,6 +5,9 @@ O projecto baseou-se num Conversor de Sistemas de Numeração, um programa que c
 O progama  converte números na base (Binário, Decimal, Hexadecimal,  Octal,  Romano ) e também por Extenso.
 
 ![alt text](imagens/img1.jpg)
+![alt text](imagens/img2.jpg)
+![alt text](imagens/img3.jpg)
+![alt text](imagens/img4.jpg)
 
 # Funcionabilidade
 O presente progama permite dois modo:
